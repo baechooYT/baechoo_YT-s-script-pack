@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/piglex9/jailbreak-ice-tray/main/Main.lua", true))()
