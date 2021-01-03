@@ -1,6 +1,3 @@
----Subscribe to Voice less---
-
---https://v3rmillion.net/showthread.php?tid=723696
 game.StarterGui:SetCore("SendNotification",{Title="Unpatched",Text="k Server checks positions so script has to be spastic af. but it werks ;)",Duration=20,Button1="OK"})
 getupvalues = getupvalues or debug.getupvalues
 setupvalue = setupvalue or debug.setupvalue
